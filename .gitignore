@@ -36,7 +36,3 @@ build/
 
 # Optional OS files
 .Trash-*
-
-# Optional: local lock files
-package-lock.json
-yarn.lock
